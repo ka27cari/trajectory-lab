@@ -1,0 +1,28 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# R dependency libraries and caches
+renv/library/
+renv/staging/
+.Rcheck/
+*.Rcheck/
+
+# Local artifacts
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.rds
+*.RDS
+*.RData
+*.zip
+
+# Shiny publishing state and secrets
+rsconnect/
+.env
+.env.*
