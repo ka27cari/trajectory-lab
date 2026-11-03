@@ -2,8 +2,6 @@
 
 **An interactive R Shiny workspace for exploring synthetic methylation-like trajectories, PCA, distance-based embeddings, and the difference between mean shifts and changes in spread.**
 
-**R Shiny** · **PCA / PCoA / NMDS / Sammon** · **5 distance definitions** · **CSV import/export**
-
 Trajectory Lab makes it easier to ask *what changed, and why does the map look different?* Adjust simulated time courses, change the set of features entering PCA, modify a feature's mean or spread, and compare different ways of representing relationships among time points or features.
 
 Trajectory Lab is an exploratory research and teaching application built around simulated data. It does not include patient-level data.
